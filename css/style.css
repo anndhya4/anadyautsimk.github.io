@@ -212,17 +212,6 @@ body {
     mix-blend-mode: hard-light;
 }
 
-.hero .content .cta {
-    margin-top: 1rem;
-    display: inline-block;
-    padding: 1rem 3rem;
-    font-size: 1.3rem;
-    color: #fff;
-    background-color: var(--primary);
-    border-radius: 0.5rem;
-    box-shadow: 1px 1px 3px rgba(60, 73, 151, 0.8);
-}
-
 /* About Section */
 .about {
     padding: 8rem 7% 1.4rem;
